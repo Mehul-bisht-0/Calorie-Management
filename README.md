@@ -16,3 +16,5 @@ This is a simple **Java Swing application** designed to help users **track and m
 * View monthly summary of calories consumed.
 * Clean and intuitive Java Swing dashboard.
 * Data stored locally in CSV for simplicity and portability.
+
+Note: The current version contains a few known bugs which will be resolved in the future
